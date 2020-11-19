@@ -18,7 +18,6 @@ linkedList.add(10);
 linkedList.add(3);
 linkedList.add(-5);
 linkedList.add(0);
-linkedList.print();
 const sorter = new Sorter(linkedList);
 sorter.sort();
 linkedList.print();
